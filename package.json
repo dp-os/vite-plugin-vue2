@@ -1,6 +1,6 @@
 {
-  "name": "@vitejs/plugin-vue2",
-  "version": "0.0.1",
+  "name": "vite-plugin-vue2-ssr",
+  "version": "0.0.2",
   "license": "MIT",
   "author": "Evan You",
   "packageManager": "pnpm@7.33.5",
