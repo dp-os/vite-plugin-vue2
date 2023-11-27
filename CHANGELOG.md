@@ -1,3 +1,12 @@
+## [0.0.4](https://github.com/vitejs/vite-plugin-vue2/compare/v0.0.3...v0.0.4) (2023-11-27)
+
+
+### Features
+
+* 设置代理地址 ([16881b6](https://github.com/vitejs/vite-plugin-vue2/commit/16881b687d172a17f16120e7fa2f9e212dce0782))
+
+
+
 ## [0.0.3](https://github.com/vitejs/vite-plugin-vue2/compare/v0.0.2...v0.0.3) (2023-11-27)
 
 
