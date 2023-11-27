@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-vue2-ssr",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "author": "Evan You",
   "packageManager": "pnpm@7.33.5",
