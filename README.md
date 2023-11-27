@@ -1,10 +1,10 @@
 # @vitejs/plugin-vue2 [![npm](https://img.shields.io/npm/v/@vitejs/plugin-vue2.svg)](https://npmjs.com/package/@vitejs/plugin-vue2)
 
-> Note: this plugin only works with Vue@^2.7.0.
+> Note: Vite plugin for Vue 2.7 and server side rendering support
 
 ```js
 // vite.config.js
-import vue from '@vitejs/plugin-vue2'
+import vue from 'vite-plugin-vue2-ssr'
 
 export default {
   plugins: [vue()]
