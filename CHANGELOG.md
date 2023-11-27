@@ -1,3 +1,7 @@
+## [0.0.3](https://github.com/vitejs/vite-plugin-vue2/compare/v0.0.2...v0.0.3) (2023-11-27)
+
+
+
 ## [0.0.2](https://github.com/vitejs/vite-plugin-vue2/compare/v0.0.1...v0.0.2) (2023-11-27)
 
 
